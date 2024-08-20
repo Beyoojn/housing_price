@@ -11,7 +11,7 @@ As a data scientist, your role is to clean, analyze, and model housing data to b
 3. <b>Model Optimization</b>: Fine-tune the predictive model to ensure it performs well across different data subsets and generalizes effectively to new data.
 
 ## Objectives
-1. <b>Data Cleaning and Preparation</br>: Handle missing data, remove outliers, and prepare the dataset for analysis and modeling.
+1. <b>Data Cleaning and Preparation</b>: Handle missing data, remove outliers, and prepare the dataset for analysis and modeling.
 2. <b>Exploratory Data Analysis (EDA)</b>: Conduct a thorough analysis to understand the distribution of the data, identify correlations, and discover trends that influence housing prices.
 3. <b>Model Development</b>: Build multiple regression models (e.g., Linear Regression, Ridge Regression) and evaluate their performance in predicting housing prices.
 4. <b>Hyperparameter Tuning</b>: Optimize the selected models to improve accuracy and reduce prediction errors.
